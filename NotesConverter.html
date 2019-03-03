@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Notes Converter</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+/* Style the header */
+.header {
+  background-color: rgba(146, 153, 152, 0.801);
+  padding: 20px;
+  text-align: left;
+}
+
+/* Style fly in sub*/
+.header h4 {
+ position: absolute;
+ width: 100%;
+ height: 100%;
+ margin: 0;
+ line-height: 0px;
+ text-align: left;
+
+ animation: header 8s ease-out;
+}
+@keyframes header {
+ 0%   { 
+ transform: translateX(200%); 		
+ }
+ 100% { 
+ transform: translateX(0%); 
+ }
+}
+/* Style the top navigation bar */
+.topnav {
+  overflow: hidden;
+  background-color: rgb(71, 68, 68);
+}
+
+/* Style the topnav links */
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change color on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+/* Clear floats after the columns */
+.content:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+@media screen and (max-width:600px) {
+  .col {
+    width: 100%;
+  }
+}
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1 style=font-size:300%>Notes Converter</h2>
+  <h4 style=font-size:150% font>Notes... made easy! Just input text and click convert!</h4>
+</div>
+
+<div class="topnav">
+  <a href="#">Home</a>
+  <a href="#">About</a>
+  <a href="#">Idk yet</a>
+</div>
+
+<div class="content">
+    <div class="col">
+        <h3>Try it!</h3>
+        <o1>
+            <li>Input text (minimum 50 words) to the right</li>
+            <li>Click Conver</li>
+            <li>Open link in pop-up box</li>
+        </o1>
+    </div>
+    <div class="col">
+            <h3>Input Text Here:</h3>
+            <textarea id = "myTextArea" rows = "15" cols = "80">Your text here</textarea>
+    </div>
+    
+</div>
+</body>
+</html>

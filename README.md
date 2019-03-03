@@ -1,2 +1,2 @@
-# HooHacks19.2
-hoohacks hackathon
+# Notes
+Creates notes from texts or videos

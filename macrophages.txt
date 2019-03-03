@@ -1,0 +1,49 @@
+Macrophages and dendritic cells play a key role in
+activating the adaptive immune system. We have just seen how the adaptive immune system uses antigens
+to distinguish between self and nonself, and how it uses
+ clonal selection to produce large numbers of specific B and T
+cells. In Concepts 39.4 and 39.5 we will focus on how these
+cells function to eliminate specific pathogens from the body.
+But how is the adaptive immune system activated in the first
+place?
+One mechanism for eliminating pathogens in the innate immune
+system is phagocytosis. After ingestion of a pathogenic
+organism or infected host cell, phagocytic cells display fragments
+of the pathogen on their cell surfaces. These fragments
+function as antigens, and antigen presentation is one way that
+components of the innate immune system communicate with
+the adaptive immune system. Macrophages and dendritic cells
+play a key role in activating the adaptive immune system. After
+engulfing pathogens or infected host cells, these cells migrate
+to lymph nodes, where they present antigen to immature T
+cells. In addition, the antigen-presenting cells secrete cytokines
+and other signals that stimulate the activation and differentiation
+of the T cells.
+Two types of adaptive immune responses interact
+The adaptive immune system mounts two types of responses
+against invaders: the humoral immune response and the cellular
+immune response. These two responses work simultaneously
+and cooperatively, sharing many mechanisms. We will use
+the example of a viral infection in an overview of these two types
+of responses (FIGURE 39.7). These responses also occur when
+bacteria or other pathogens infect and grow inside host cells.
+B cells that make antibodies are the workhorses of the humoral
+immune response, and cytotoxic T (TC) cells are the
+workhorses of the cellular immune response. There are three
+phases in both types of immune response:
+• Recognition phase: In both cellular and humoral immunity,
+recognition occurs when an antigen is inserted into the cell
+membrane of an antigen-presenting cell, with the unique
+antigen structure protruding from the cell membrane. In
+addition to dendritic cells and macrophages, developing
+B cells can also perform phagocytosis and function as
+antigen-presenting cells. Figure 39.7 shows a virus-infected
+host cell being engulfed by an antigen-presenting cell; in
+other cases, the free viral particles may be engulfed. The
+antigen on the surface of the antigen-presenting cell is recognized
+by a T-helper (TH) cell bearing a T cell receptor
+protein that is specific for the antigen. In both humoral and
+cellular immunity, binding initiates the activation phase.
+• Activation phase: When the TH cell recognizes an antigen on
+an antigen-presenting cell, it propagates and releases cytokines
+that stimulate B cells and TC cells bearing receptors

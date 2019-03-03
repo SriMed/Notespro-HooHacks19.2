@@ -1,0 +1,460 @@
+	Text: The
+PartOfSpeechTag: DET
+	Text: greatest
+PartOfSpeechTag: ADJ
+	Text: supporter
+PartOfSpeechTag: NOUN
+	Text: of
+PartOfSpeechTag: ADP
+	Text: militant
+PartOfSpeechTag: ADJ
+	Text: Catholicism
+PartOfSpeechTag: NOUN
+	Text: in
+PartOfSpeechTag: ADP
+	Text: the
+PartOfSpeechTag: DET
+	Text: second
+PartOfSpeechTag: ADJ
+	Text: half
+PartOfSpeechTag: NOUN
+	Text: of
+PartOfSpeechTag: ADP
+	Text: the
+PartOfSpeechTag: DET
+	Text: 1500s
+PartOfSpeechTag: NOUN
+	Text: was
+PartOfSpeechTag: VERB
+	Text: King
+PartOfSpeechTag: NOUN
+	Text: Philip
+PartOfSpeechTag: NOUN
+	Text: II
+PartOfSpeechTag: NOUN
+	Text: .
+PartOfSpeechTag: PUNCT
+	Text: He
+PartOfSpeechTag: PRON
+	Text: was
+PartOfSpeechTag: VERB
+	Text: the
+PartOfSpeechTag: DET
+	Text: son
+PartOfSpeechTag: NOUN
+	Text: of
+PartOfSpeechTag: ADP
+	Text: Charles
+PartOfSpeechTag: NOUN
+	Text: V
+PartOfSpeechTag: NOUN
+	Text: —
+PartOfSpeechTag: PUNCT
+	Text: the
+PartOfSpeechTag: DET
+	Text: Holy
+PartOfSpeechTag: NOUN
+	Text: Roman
+PartOfSpeechTag: NOUN
+	Text: Emperor
+PartOfSpeechTag: NOUN
+	Text: ,
+PartOfSpeechTag: PUNCT
+	Text: King
+PartOfSpeechTag: NOUN
+	Text: of
+PartOfSpeechTag: ADP
+	Text: Spain
+PartOfSpeechTag: NOUN
+	Text: ,
+PartOfSpeechTag: PUNCT
+	Text: and
+PartOfSpeechTag: CONJ
+	Text: Archduke
+PartOfSpeechTag: NOUN
+	Text: of
+PartOfSpeechTag: ADP
+	Text: Austria
+PartOfSpeechTag: NOUN
+	Text: .
+PartOfSpeechTag: PUNCT
+	Text: Charles
+PartOfSpeechTag: NOUN
+	Text: V
+PartOfSpeechTag: NOUN
+	Text: 's
+PartOfSpeechTag: PRT
+	Text: brother
+PartOfSpeechTag: NOUN
+	Text: ,
+PartOfSpeechTag: PUNCT
+	Text: Ferdinand
+PartOfSpeechTag: NOUN
+	Text: I
+PartOfSpeechTag: NOUN
+	Text: ,
+PartOfSpeechTag: PUNCT
+	Text: succeeded
+PartOfSpeechTag: VERB
+	Text: him
+PartOfSpeechTag: PRON
+	Text: as
+PartOfSpeechTag: ADP
+	Text: Holy
+PartOfSpeechTag: NOUN
+	Text: Roman
+PartOfSpeechTag: NOUN
+	Text: Emperor
+PartOfSpeechTag: NOUN
+	Text: .
+PartOfSpeechTag: PUNCT
+	Text: Philip
+PartOfSpeechTag: NOUN
+	Text: II
+PartOfSpeechTag: NOUN
+	Text: inherited
+PartOfSpeechTag: VERB
+	Text: the
+PartOfSpeechTag: DET
+	Text: kingdoms
+PartOfSpeechTag: NOUN
+	Text: of
+PartOfSpeechTag: ADP
+	Text: Milan
+PartOfSpeechTag: NOUN
+	Text: ,
+PartOfSpeechTag: PUNCT
+	Text: Naples
+PartOfSpeechTag: NOUN
+	Text: ,
+PartOfSpeechTag: PUNCT
+	Text: Sicily
+PartOfSpeechTag: NOUN
+	Text: ,
+PartOfSpeechTag: PUNCT
+	Text: the
+PartOfSpeechTag: DET
+	Text: Netherlands
+PartOfSpeechTag: NOUN
+	Text: ,
+PartOfSpeechTag: PUNCT
+	Text: and
+PartOfSpeechTag: CONJ
+	Text: Spain
+PartOfSpeechTag: NOUN
+	Text: and
+PartOfSpeechTag: CONJ
+	Text: its
+PartOfSpeechTag: PRON
+	Text: empire
+PartOfSpeechTag: NOUN
+	Text: in
+PartOfSpeechTag: ADP
+	Text: the
+PartOfSpeechTag: DET
+	Text: Americas
+PartOfSpeechTag: NOUN
+	Text: from
+PartOfSpeechTag: ADP
+	Text: Charles
+PartOfSpeechTag: NOUN
+	Text: V.
+PartOfSpeechTag: NOUN
+	Text: Philip
+PartOfSpeechTag: NOUN
+	Text: ,
+PartOfSpeechTag: PUNCT
+	Text: who
+PartOfSpeechTag: PRON
+	Text: reigned
+PartOfSpeechTag: VERB
+	Text: from
+PartOfSpeechTag: ADP
+	Text: 1556
+PartOfSpeechTag: NUM
+	Text: to
+PartOfSpeechTag: ADP
+	Text: 1598
+PartOfSpeechTag: NUM
+	Text: ,
+PartOfSpeechTag: PUNCT
+	Text: ushered
+PartOfSpeechTag: VERB
+	Text: in
+PartOfSpeechTag: ADP
+	Text: an
+PartOfSpeechTag: DET
+	Text: age
+PartOfSpeechTag: NOUN
+	Text: of
+PartOfSpeechTag: ADP
+	Text: Spanish
+PartOfSpeechTag: ADJ
+	Text: greatness
+PartOfSpeechTag: NOUN
+	Text: .
+PartOfSpeechTag: PUNCT
+	Text: To
+PartOfSpeechTag: PRT
+	Text: strengthen
+PartOfSpeechTag: VERB
+	Text: his
+PartOfSpeechTag: PRON
+	Text: control
+PartOfSpeechTag: NOUN
+	Text: ,
+PartOfSpeechTag: PUNCT
+	Text: Philip
+PartOfSpeechTag: NOUN
+	Text: insisted
+PartOfSpeechTag: VERB
+	Text: on
+PartOfSpeechTag: ADP
+	Text: strict
+PartOfSpeechTag: ADJ
+	Text: conformity
+PartOfSpeechTag: NOUN
+	Text: to
+PartOfSpeechTag: ADP
+	Text: Catholicism
+PartOfSpeechTag: NOUN
+	Text: and
+PartOfSpeechTag: CONJ
+	Text: strong
+PartOfSpeechTag: ADJ
+	Text: monarchial
+PartOfSpeechTag: ADJ
+	Text: authority
+PartOfSpeechTag: NOUN
+	Text: .
+PartOfSpeechTag: PUNCT
+	Text: He
+PartOfSpeechTag: PRON
+	Text: also
+PartOfSpeechTag: ADV
+	Text: had
+PartOfSpeechTag: VERB
+	Text: the
+PartOfSpeechTag: DET
+	Text: powerful
+PartOfSpeechTag: ADJ
+	Text: Spanish
+PartOfSpeechTag: ADJ
+	Text: navy
+PartOfSpeechTag: NOUN
+	Text: at
+PartOfSpeechTag: ADP
+	Text: his
+PartOfSpeechTag: PRON
+	Text: command
+PartOfSpeechTag: NOUN
+	Text: .
+PartOfSpeechTag: PUNCT
+	Text: Around
+PartOfSpeechTag: ADP
+	Text: 1500
+PartOfSpeechTag: NUM
+	Text: ,
+PartOfSpeechTag: PUNCT
+	Text: Catholic
+PartOfSpeechTag: ADJ
+	Text: kingdoms
+PartOfSpeechTag: NOUN
+	Text: in
+PartOfSpeechTag: ADP
+	Text: Spain
+PartOfSpeechTag: NOUN
+	Text: had
+PartOfSpeechTag: VERB
+	Text: reconquered
+PartOfSpeechTag: VERB
+	Text: Muslim
+PartOfSpeechTag: ADJ
+	Text: areas
+PartOfSpeechTag: NOUN
+	Text: there
+PartOfSpeechTag: ADV
+	Text: and
+PartOfSpeechTag: CONJ
+	Text: expelled
+PartOfSpeechTag: VERB
+	Text: Spanish
+PartOfSpeechTag: ADJ
+	Text: Jews
+PartOfSpeechTag: NOUN
+	Text: .
+PartOfSpeechTag: PUNCT
+	Text: Muslims
+PartOfSpeechTag: NOUN
+	Text: were
+PartOfSpeechTag: VERB
+	Text: forced
+PartOfSpeechTag: VERB
+	Text: to
+PartOfSpeechTag: PRT
+	Text: convert
+PartOfSpeechTag: VERB
+	Text: or
+PartOfSpeechTag: CONJ
+	Text: go
+PartOfSpeechTag: VERB
+	Text: into
+PartOfSpeechTag: ADP
+	Text: exile
+PartOfSpeechTag: NOUN
+	Text: .
+PartOfSpeechTag: PUNCT
+	Text: Spain
+PartOfSpeechTag: NOUN
+	Text: saw
+PartOfSpeechTag: VERB
+	Text: itself
+PartOfSpeechTag: PRON
+	Text: as
+PartOfSpeechTag: ADP
+	Text: a
+PartOfSpeechTag: DET
+	Text: nation
+PartOfSpeechTag: NOUN
+	Text: chosen
+PartOfSpeechTag: VERB
+	Text: by
+PartOfSpeechTag: ADP
+	Text: God
+PartOfSpeechTag: NOUN
+	Text: to
+PartOfSpeechTag: PRT
+	Text: save
+PartOfSpeechTag: VERB
+	Text: Catholic
+PartOfSpeechTag: ADJ
+	Text: Christianity
+PartOfSpeechTag: NOUN
+	Text: from
+PartOfSpeechTag: ADP
+	Text: Protestant
+PartOfSpeechTag: ADJ
+	Text: heretics
+PartOfSpeechTag: NOUN
+	Text: .
+PartOfSpeechTag: PUNCT
+	Text: Philip
+PartOfSpeechTag: NOUN
+	Text: II
+PartOfSpeechTag: NOUN
+	Text: ,
+PartOfSpeechTag: PUNCT
+	Text: the
+PartOfSpeechTag: DET
+	Text: "
+PartOfSpeechTag: PUNCT
+	Text: Most
+PartOfSpeechTag: ADJ
+	Text: Catholic
+PartOfSpeechTag: NOUN
+	Text: King
+PartOfSpeechTag: NOUN
+	Text: ,
+PartOfSpeechTag: PUNCT
+	Text: "
+PartOfSpeechTag: PUNCT
+	Text: championed
+PartOfSpeechTag: VERB
+	Text: Catholic
+PartOfSpeechTag: ADJ
+	Text: causes
+PartOfSpeechTag: NOUN
+	Text: .
+PartOfSpeechTag: PUNCT
+	Text: His
+PartOfSpeechTag: PRON
+	Text: actions
+PartOfSpeechTag: NOUN
+	Text: led
+PartOfSpeechTag: VERB
+	Text: to
+PartOfSpeechTag: ADP
+	Text: spectacular
+PartOfSpeechTag: ADJ
+	Text: victories
+PartOfSpeechTag: NOUN
+	Text: and
+PartOfSpeechTag: CONJ
+	Text: defeats
+PartOfSpeechTag: NOUN
+	Text: .
+PartOfSpeechTag: PUNCT
+	Text: Spain
+PartOfSpeechTag: NOUN
+	Text: 's
+PartOfSpeechTag: PRT
+	Text: leadership
+PartOfSpeechTag: NOUN
+	Text: of
+PartOfSpeechTag: ADP
+	Text: a
+PartOfSpeechTag: DET
+	Text: Holy
+PartOfSpeechTag: NOUN
+	Text: League
+PartOfSpeechTag: NOUN
+	Text: against
+PartOfSpeechTag: ADP
+	Text: the
+PartOfSpeechTag: DET
+	Text: Turks
+PartOfSpeechTag: NOUN
+	Text: resulted
+PartOfSpeechTag: VERB
+	Text: in
+PartOfSpeechTag: ADP
+	Text: a
+PartOfSpeechTag: DET
+	Text: stunning
+PartOfSpeechTag: ADJ
+	Text: victory
+PartOfSpeechTag: NOUN
+	Text: over
+PartOfSpeechTag: ADP
+	Text: the
+PartOfSpeechTag: DET
+	Text: Turkish
+PartOfSpeechTag: ADJ
+	Text: fleet
+PartOfSpeechTag: NOUN
+	Text: in
+PartOfSpeechTag: ADP
+	Text: the
+PartOfSpeechTag: DET
+	Text: Battle
+PartOfSpeechTag: NOUN
+	Text: of
+PartOfSpeechTag: ADP
+	Text: Lepanto
+PartOfSpeechTag: NOUN
+	Text: in
+PartOfSpeechTag: ADP
+	Text: 1571
+PartOfSpeechTag: NUM
+	Text: .
+PartOfSpeechTag: PUNCT
+	Text: Philip
+PartOfSpeechTag: NOUN
+	Text: was
+PartOfSpeechTag: VERB
+	Text: not
+PartOfSpeechTag: ADV
+	Text: so
+PartOfSpeechTag: ADV
+	Text: fortunate
+PartOfSpeechTag: ADJ
+	Text: in
+PartOfSpeechTag: ADP
+	Text: his
+PartOfSpeechTag: PRON
+	Text: other
+PartOfSpeechTag: ADJ
+	Text: conflicts
+PartOfSpeechTag: NOUN
+	Text: .
+PartOfSpeechTag: PUNCT

@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>notespro.tech</title>
+<style>
+* {
+  box-sizing: border-box;
+}
+body {
+  background-color: rgb(0, 0, 0);
+  padding: 20px;
+  text-align: left;
+}
+/* Header/Blog Title */
+.header {
+  background-color: rgb(255, 255, 255);
+  padding: 20px;
+  text-align: left;
+}
+.header h4 {
+ position: absolute;
+ width: 100%;
+ height: 100%;
+ margin: 0;
+ line-height: 0px;
+ text-align: left;
+ animation: header 8s ease-out;
+}
+@keyframes header {
+ 0%   { 
+ transform: translateX(200%); 		
+ }
+ 100% { 
+ transform: translateX(0%); 
+ }
+}
+/* Style the top navigation bar */
+.topnav {
+  overflow: hidden;
+  background-color: rgb(71, 68, 68);
+}
+/* Style the topnav links */
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+/* Change color on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+/* Create two unequal columns that floats next to each other */
+/* Left column */
+.leftcolumn {   
+  float: left;
+  width: 72%;
+}
+/* Right column */
+.rightcolumn {
+  float: right;
+  width: 22%;
+  background-color: #f1f1f1;
+  padding-left: 20px;
+}
+/* Images */
+.img {
+  background-color: #aaa;
+  width: 100%;
+  padding: 20px;
+}
+/* Text Box */
+.text {
+  background-color: #aaa;
+  width: 100%;
+  padding: 20px;
+}
+/* Button */
+.button {
+    background-color: #aaa;
+    width: 100%;
+    padding: 8px;
+}
+/* Card effect */
+.card {
+  background-color: white;
+  padding: 20px;
+  margin-top: 20px;
+}
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+/* Footer */
+.footer {
+  padding: 20px;
+  text-align: center;
+  background: #ddd;
+  margin-top: 20px;
+}
+/* Responsive layout - when the screen is less than 800px wide, make the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 800px) {
+  .leftcolumn, .rightcolumn {   
+    width: 100%;
+    padding: 0;
+  }
+}
+/* Responsive layout - when the screen is less than 400px wide, make the navigation links stack on top of each other instead of next to each other */
+@media screen and (max-width: 400px) {
+  .topnav a {
+    float: none;
+    width: 100%;
+  }
+}
+</style>
+</head>
+<body>
+
+<script src="myscript.js"></script>    
+<div class="header">
+    <h1 style=font-size:300%>Notes Pro</h2>
+    <h4 style=font-size:150% font>Notes... made easy! Just input text and click convert!</h4>
+</div>
+
+<div class="topnav">
+  <a href="file:///Users/rheatam/Desktop/18-19/HooHacks/Final.html">Home</a>
+  <a href="file:///Users/rheatam/Desktop/18-19/HooHacks/hp.html">Popular Notes</a>
+  <a href="http://google.com" style="float:right">Comments</a>
+</div>
+
+<div class="row">
+  <div class="leftcolumn">
+    <div class="card">
+      <h1>Lectures to Notes</h1>
+      <h4>Brief overview: how it works?</h4>
+      <div class="img" style="height:200px;">
+            <img src="Lovenotes.png" alt="notes" height=160 width=400>
+    </div>
+      <p>Our program uses.....</p>
+      <p>Simply just input your text from your textbook or assigned lectures below and hit convert. Preview the pop-up link to reveal your bulleted notes for the analyzed text.</p>
+    </div>
+    <div class="card">
+      <h1>Sample Text Below</h1>
+      <h4>Minimum 250 words</h4>
+      <div class="text">
+          <p>
+          The greatest supporter of militant Catholicism in the second half of the 1500s was King Philip II.
+He was the son of Charles V—the Holy Roman Emperor, King of Spain, and Archduke of Austria. 
+Charles V's brother, Ferdinand I, succeeded him as Holy Roman Emperor. 
+Philip II inherited the kingdoms of Milan, Naples, Sicily, the Netherlands, and Spain and its empire in the Americas from Charles V. Philip, who reigned from 1556 to 1598, ushered in an age of Spanish greatness. 
+To strengthen his control, Philip insisted on strict conformity to Catholicism and strong monarchial authority. He also had the powerful Spanish navy at his command. 
+Around 1500, Catholic kingdoms in Spain had reconquered Muslim areas there and expelled Spanish Jews. 
+Muslims were forced to convert or go into exile. 
+Spain saw itself as a nation chosen by God to save Catholic Christianity from Protestant heretics. Philip II, the Most Catholic King, championed Catholic causes. 
+His actions led to spectacular victories and defeats. Spain's leadership of a Holy League against the Turks resulted in a stunning victory over the Turkish fleet in the Battle of Lepanto in 1571. 
+Philip was not so fortunate in his other conflicts.
+          </p>
+      </div>   
+      <div class="button">
+            <button style="height:20px; width:470px;" onclick="location.href= 'file:///Users/sripriya/eclipse-workspace/Notes2/notes.html'" type="button">See Sample</button>
+      </div>
+        
+    </div>
+  </div>
+  <div class="rightcolumn">
+    <div class="card">
+      <h2>About Us</h2>
+      <div class="img" style="height:240px;">
+            <img src="girls.jpg" alt="happy us" height=200 width=200>
+      </div>
+      <p>Created by Srilakshmi Medarametla, Lekha Punya, & Rhea Tammireddi on March 2nd 2019</p>
+    </div>
+    
+  </div>
+</div>
+
+<div class="footer">
+  <h2>NotesPro.co ---- The Notes That Save Your Time</h2>
+</div>
+
+
+</body>
+</html>
