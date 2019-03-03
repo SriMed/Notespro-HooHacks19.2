@@ -121,7 +121,34 @@ body {
 </head>
 <body>
 
-<script src="myscript.js"></script>    
+<script>
+    function saveTextAsFile()
+{
+    var textToWrite = document.getElementById("myTextArea").value;
+    var textFileAsBlob = new Blob([textToWrite], {type:'text/plain'});
+    alert(textFileAsBlob);
+    var fileNameToSaveAs = "input.txt";
+    var downloadLink = document.createElement("a");
+    downloadLink.download = fileNameToSaveAs;
+    downloadLink.innerHTML = "Download File";
+    if (window.webkitURL != null)
+    {
+        // Chrome allows the link to be clicked
+        // without actually adding it to the DOM.
+        downloadLink.href = window.webkitURL.createObjectURL(textFileAsBlob);
+    }
+    else
+    {
+        // Firefox requires the link to be added to the DOM
+        // before it can be clicked.
+        downloadLink.href = window.URL.createObjectURL(textFileAsBlob);
+        downloadLink.onclick = destroyClickedElement;
+        downloadLink.style.display = "none";
+        document.body.appendChild(downloadLink);
+    }
+    downloadLink.click();
+}
+</script>    
 <div class="header">
     <h1 style=font-size:300%>Notes Pro</h2>
     <h4 style=font-size:150% font>Notes... made easy! Just input text and click convert!</h4>
@@ -145,24 +172,16 @@ body {
       <p>Simply just input your text from your textbook or assigned lectures below and hit convert. Preview the pop-up link to reveal your bulleted notes for the analyzed text.</p>
     </div>
     <div class="card">
-      <h1>Sample Text Below</h1>
+      <h1>Input Text Below</h1>
       <h4>Minimum 250 words</h4>
       <div class="text">
-          <p>
-          The greatest supporter of militant Catholicism in the second half of the 1500s was King Philip II.
-He was the son of Charles V—the Holy Roman Emperor, King of Spain, and Archduke of Austria. 
-Charles V's brother, Ferdinand I, succeeded him as Holy Roman Emperor. 
-Philip II inherited the kingdoms of Milan, Naples, Sicily, the Netherlands, and Spain and its empire in the Americas from Charles V. Philip, who reigned from 1556 to 1598, ushered in an age of Spanish greatness. 
-To strengthen his control, Philip insisted on strict conformity to Catholicism and strong monarchial authority. He also had the powerful Spanish navy at his command. 
-Around 1500, Catholic kingdoms in Spain had reconquered Muslim areas there and expelled Spanish Jews. 
-Muslims were forced to convert or go into exile. 
-Spain saw itself as a nation chosen by God to save Catholic Christianity from Protestant heretics. Philip II, the Most Catholic King, championed Catholic causes. 
-His actions led to spectacular victories and defeats. Spain's leadership of a Holy League against the Turks resulted in a stunning victory over the Turkish fleet in the Battle of Lepanto in 1571. 
-Philip was not so fortunate in his other conflicts.
-          </p>
-      </div>   
+                <textarea id = "myTextArea" rows = "25" cols = "149">Your text here</textarea>
+      </div>
       <div class="button">
-            <button style="height:20px; width:470px;" onclick="location.href= 'file:///Users/sripriya/eclipse-workspace/Notes2/notes.html'" type="button">See Sample</button>
+            <button onclick="saveTextAsFile()" id="saveButton" style="height:20px; width:940px;">Save Note Content</button>
+     </div>    
+      <div class="button">
+            <button style="height:20px; width:940px;" onclick="location.href= 'file://file:///Users/sripriya/eclipse-workspace/Notes2/notes.html'" type="button">Convert</button>
       </div>
         
     </div>
