@@ -1,4 +1,4 @@
-# Notes
+# Notespro
 Creates notes from texts
 
 Simply input a text file into the constantly developing Notespro website and we will convert your textbook into easily-readable notes.
