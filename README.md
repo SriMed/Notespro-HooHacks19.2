@@ -8,4 +8,5 @@ Using Google Cloud Platform, we analyze important entities as keywords and ident
 # Credits
 Srilakshmi Medarametla, Lekha Punya, Rhea Tammireddi
 
-[HooHacks19.2](https://devpost.com/software/hoohacks19-2)
+# Links
+Submitted to [HooHacks19.2](https://devpost.com/software/hoohacks19-2)
